@@ -4,4 +4,4 @@ This folder will cover the following, and more:
   [] HTML
   [] CSS 
   [] JS 
-  [] Likely some form of database communication 
+  [] Likely some form of server communication 
